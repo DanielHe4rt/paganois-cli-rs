@@ -8,7 +8,7 @@ A tool that converts my salary based in the spread percentages made by [Husky.io
 
 The goal is having the same features for the Ubuntu/Debian notifications also any terminal of your choice.
 
-* [] Ubuntu/Debian notifications
+* [ ] Ubuntu/Debian notifications
 * [x] Terminal output
 
 ## Installation
@@ -31,4 +31,3 @@ TODO: Add usage instructions
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
